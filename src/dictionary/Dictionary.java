@@ -55,6 +55,7 @@ public class Dictionary {
 			in.close();
 		} catch (Exception e) {
 			print("Não foi possível carregar o dicionário");
+			System.exit(0);
 		}
 	}
 	

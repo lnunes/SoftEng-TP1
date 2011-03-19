@@ -9,7 +9,7 @@ import dictionary.Word;
 
 public class EntryClass {
 	
-	private static Dictionary dictionary = new Dictionary("files/dictionary.txt");
+	private static Dictionary dictionary = new Dictionary("src/files/dictionary.txt");
 	/**
 	 * @param args
 	 */
