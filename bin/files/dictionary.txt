@@ -1,0 +1,6 @@
+S;menino;M;S
+S;meninos;M;P
+S;moça;F;S
+S;moças;F;P
+V;chutar;D;chuta;chutam
+V;dançar;I;dança;dançam
