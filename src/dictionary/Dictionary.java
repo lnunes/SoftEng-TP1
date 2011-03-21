@@ -24,7 +24,6 @@ public class Dictionary {
 	}
 	
 	public void load() {
-		print("======Carregando dicionário======");
 		try {
 			DataInputStream in = new DataInputStream(new FileInputStream(filename));
 			BufferedReader br = new BufferedReader(new InputStreamReader(in));

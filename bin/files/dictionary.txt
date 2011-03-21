@@ -4,3 +4,4 @@ S;moça;F;S
 S;moças;F;P
 V;chutar;D;chuta;chutam
 V;dançar;I;dança;dançam
+S;bola;F;S
